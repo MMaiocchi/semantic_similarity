@@ -1,0 +1,44 @@
+﻿# Sample corpus for testing semantic search of cuneiform texts in translation.
+# All translations after CDLI (https://cdli.mpiwg-berlin.mpg.de/), with the following exceptions: 
+# 	Middle Assyrian Laws (MAL) after Roth M. 1997, Law Collections from Mesopotamia and Asia Minor. Atlanta.
+# 	UET 6 after Perterson J. 2019, The Literary Sumerian of Old Babylonian Ur: UET 6/1-3 in Transliteration and Translation with Select Commentary, CDLI Preprints 19.
+# 	Proverb Collection after Alster B. 1997, Proverbs of Ancient Sumer. Bethesda.
+
+
+&P497998 = MAL A §13
+If the wife of a man should  go out of her own house, and go to  another man where he resides, and  should he fornicate with her knowing  that she is the wife of a man,  they shall kill the man and the wife.
+
+&P497998 = MAL A §15
+If a man should seize  another man upon his wife and  they prove the charges against him  and find him guilty, they shall kill  both of them; there is no liability  for him (i.e., the husband). If he  should seize him and bring him  either before the king or the  judges, and they prove the charges  against him and find him guilty—if  the woman.s husband kills his wife,  then he shall also kill the man; if he  cuts off his wife's nose, he shall  turn the man into a eunuch and  they shall lacerate his entire face; but if [he wishes to release] his  wife, he shall [release] the man.
+
+&P497998 = MAL A §23
+If a man's wife should take  another man's wife into her house  and give her to a man for purposes  of fornication, and the man knows  that she is the wife of a man, they  shall treat him as one who has fornicated  with the wife of another  man; and they treat the female procurer  just as the woman.s husband  treats his fornicating wife. And if  the woman.s husband intends to do  nothing to his fornicating wife,  they shall do nothing to the fornicator  or to the female procurer;  they shall release them. But if the  man.s wife does not know (what  was intended). and the woman who  takes her into her house brings the  man in to her by deceit(?), and he  then fornicates with her—if, as  soon as she leaves the house, she  should declare that she has been  the victim of fornication, they shall  release the woman, she is clear;  they shall kill the fornicator and  the female procurer. But if the  woman should not so declare, the  man shall impose whatever punishment  on his wife he wishes; they  shall kill the fornicator and the  female procurer.
+
+&P346232 = UET 6, 0147 ## 46 
+Your(?) man who is to kill(?), when he(?) ...
+
+&P497998 = MAL A §50
+[If a man] strikes [another  man's wife thereby causing her to  abort her fetus„.,] a man.s wife j,, J  and they shall treat him as he  treated her; he shall make full payment  of a life for her fetus. And if  that woman dies, they shall kill that man; he shall make full payment  of a life for her fetus. And if  there is no son of that woman's  husband, and his wife whom he  struck aborted her fetus, they shall  kill the assailant for her fetus. if her  fetus was a female. he shall make  full payment of a life only.
+
+&P346116 = UET 6/1, 0031 ## 85 
+… a man who is married …'
+
+&P497998 = MAL A §52
+If a man strikes a prostitute  causing her to abort her fetus, they  shall assess him blow for blow, he  shall make full payment of a life.
+
+&P346384 = Proverb Collection 28 ##34
+A malicious spouse …
+
+&P020116 = VS 14, 101 ##1
+Total: 75 head-gur barley,  barley rations of the ration holding ones;  62 (head-gur) less 1 ban2 barley rations of female slaves, children, blind, from various tablets;  40 (head-gur) 1 barig 2 ban2 5 sila3 barley;  40 (head-gur) less 2 barig emmer  regular offerings;  56 (head-gur) 2 barig 4 ban2 barley  feed for oxen and sheep.
+
+&P102353 = ASJ 09, 270 77 ##1
+1 female kid, in the uzga-house,  Arad-Nanna, the cook, was enforcer;  3 sheep, grain-fed, 1 lamb,  Bizua;  1 sheep, grain-fed, 3rd grade,  1 sheep, grain-fed, 4th grade,  Dada, castrate;  1 sheep, grain-fed, 3rd grade,  1 sheep, grain-fed, 4th grade,  Ur-Ningubalag, the cantor;  from among the deliveries;  the 9th day,  from Intaea(’s account) booked out;  via Nanna-maba, the scribe;  month: “Festival of Šulgi,”  year: “Šu-Suen is king;”  (total:) 9 sheep.
+
+&P431921 = RIME 3/1.01.01.06 composite ##1
+To Baba  his mistress,  for the life  of Ur-Ningirsu  the ruler  of Lagaš,  Ur-Lugaledina the physician,  also for his own life,  dedicated it (this plaque) to her.
+
+&X000000 = test sentence
+This is a test sentence.
+
+
